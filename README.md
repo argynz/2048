@@ -1,5 +1,5 @@
-# X&0
-A simple tic tac toe game is written fully programmatically.
+# 2048
+A simple 2048 game is written fully programmatically.
 Used: UIKit, SPM, Userdefaults, Alerts, UICollectionView
 
 ## App demonstration
